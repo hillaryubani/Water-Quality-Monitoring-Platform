@@ -11,3 +11,5 @@ O
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 P
  contracts/water-quality-nft.clar,5/2/52131ba3eb3a33981119ac8ba1e3f63922913e67
+O
+tests/water-quality-nft.test.ts,c/d/cda9e0837241b3c5095f554700cc65620cef6eca
